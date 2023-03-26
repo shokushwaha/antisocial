@@ -1,7 +1,7 @@
 import { PrettyChatWindow } from "react-chat-engine-pretty";
 
 const ChatsPage = (props) => {
-    const REACT_APP_CHAT_ENGINE_PROJECT_ID = "878e32c8-406f-47a8-8ddc-be8ced18a9bd";
+    const REACT_APP_CHAT_ENGINE_PROJECT_ID = "";
     return (
         <div style={{ height: "100vh", width: "100vw" }}>
             <PrettyChatWindow
